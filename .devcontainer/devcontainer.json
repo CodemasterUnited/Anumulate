@@ -6,6 +6,5 @@
       "label": "Android (ws-scrcpy)",
       "visibility": "public"
     }
-  },
-  "postStartCommand": "bash .devcontainer/start.sh"
+  }
 }
